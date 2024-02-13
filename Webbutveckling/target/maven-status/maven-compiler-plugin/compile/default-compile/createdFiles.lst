@@ -1,0 +1,5 @@
+org\example\Webbutveckling\resources\JavaEE8Resource.class
+servlets\CourseServlet.class
+servlets\StudentServlet.class
+org\example\Webbutveckling\JAXRSConfiguration.class
+servlets\AssociationTableServlet.class

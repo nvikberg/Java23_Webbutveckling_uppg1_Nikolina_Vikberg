@@ -1,0 +1,29 @@
+
+body {
+background-color: #506751;
+}
+
+p {
+  text-align: center;
+  border: 2px solid powderblue;
+  margin: 50px;
+}
+
+table {
+width: 100%;
+}
+
+tr:nth-child(even) {
+background-color: #DBDBD1;
+}
+
+th, td {
+text-align: center;
+vertical-align: middle;
+}
+
+.table-heading {
+font-size: 24px;
+border-bottom: 1px solid #000000;
+}
+
